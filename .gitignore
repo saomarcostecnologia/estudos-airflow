@@ -1,1 +1,3 @@
 /Airflow/logs
+Airflow/logs/dag_processor_manager
+Airflow/logs/scheduler
